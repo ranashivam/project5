@@ -23,5 +23,3 @@ while True:
         print("You are below the number!")
 
 print("You got it in" , userGuesses , "guesses!")
-
-
